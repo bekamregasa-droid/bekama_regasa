@@ -16,7 +16,7 @@
 
 I'm a **Fullstack Developer** and **CEO of Beka Prime** from Ethiopia. As a first-year student at Shaggar Institute of Technology, I've already built and deployed production applications used by real people.
 
-**What makes me different:** I identify community problems, architect scalable solutions, and deliver polished products—not just class projects.
+**What makes me different:** I identify community problems, architect scalable solutions, and deliver polished products - not just class projects.
 
 <br>
 
