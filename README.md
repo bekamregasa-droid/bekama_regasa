@@ -162,7 +162,7 @@ I'm a **Fullstack Developer** and **CEO of Beka Prime** from Ethiopia. As a firs
 # 📫 Beyond The Interface
 
 <div align="center">
-  <a href="mailto:bekamregasa@gmail.com"><img src="https://img.shields.io/badge/Email-bekama.regasa%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:bekamregasa@gmail.com"><img src="https://img.shields.io/badge/Email-bekamregasa%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="tel:+251948960544"><img src="https://img.shields.io/badge/Call-%2B251948960544-green?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </div>
 
